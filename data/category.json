@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Explainer",
+    "key": "explainer",
+    "id": "1"
+  },
+  {
+    "title": "Image Based",
+    "key": "image",
+    "id": "2"
+  },
+  {
+    "title": "Typography",
+    "key": "Typography",
+    "id": "3"
+  },
+  {
+    "title": "Whiteboard",
+    "key": "whiteboard",
+    "id": "4"
+  },
+  {
+    "title": "Social Media Promotions",
+    "key": "social",
+    "id": "5"
+  },
+  {
+    "title": "Logo Animation",
+    "key": "logo",
+    "id": "6"
+  }
+]
