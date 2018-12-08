@@ -487,7 +487,7 @@ background: url(../images/port-back.jpg) no-repeat 0px 0px;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	text-align: center;
-	min-height:1404px;
+	min-height:1200px;
     padding: 140px 0 0px 0;
 }
 #portfolio p {
@@ -1251,7 +1251,7 @@ color:#ffffff;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
-	min-height:85px;
+	min-height:120px;
 }
 .client-back{
 background: url(../images/clien-b.jpg) no-repeat 0px 0px;
@@ -1259,7 +1259,7 @@ background: url(../images/clien-b.jpg) no-repeat 0px 0px;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
-	min-height:99px;
+	min-height:120px;
 }
 .process-back{
 background: url(../images/pro-b.jpg) no-repeat 0px 0px;
@@ -1267,7 +1267,7 @@ background: url(../images/pro-b.jpg) no-repeat 0px 0px;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
-	min-height:93px;
+	min-height:120px;
 }
 .services-back{
 background: url(../images/work-b.jpg) no-repeat 0px 0px;
@@ -1275,7 +1275,7 @@ background: url(../images/work-b.jpg) no-repeat 0px 0px;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
-	min-height:93px;
+	min-height:120px;
 }
 .my-skill-back{
 background: url(../images/myskill-b.jpg) no-repeat 0px 0px;
@@ -1283,7 +1283,7 @@ background: url(../images/myskill-b.jpg) no-repeat 0px 0px;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
-	min-height:93px;
+	min-height:120px;
 }
 .about-back{
 background: url(../images/about-b.jpg) no-repeat 0px 0px;
@@ -1291,7 +1291,7 @@ background: url(../images/about-b.jpg) no-repeat 0px 0px;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
-	min-height:102px;
+	min-height:120px;
 }
 .strip-border{
 background:#eeeeee;

@@ -3,21 +3,133 @@
     "title" : "Blockchain Alexis",
     "url" : "https://player.vimeo.com/video/277402408",
     "thumb" : "",
-    "description" : "TEST",
+    "description" : "Corporate style- Motion graphics Alexis app explainer video.",
+    "category" : "Explainer"
+  },
+  {
+    "title" : "Atree Health",
+    "url" : "https://player.vimeo.com/video/273111545",
+    "thumb" : "",
+    "description" : "Character based- Explainer for Atree Health app.",
+    "category" : "Explainer"
+  },
+  {
+    "title" : "Motor App",
+    "url" : "https://player.vimeo.com/video/269250813",
+    "thumb" : "",
+    "description" : "Character based- Sample explainer with computer generated Voice Over.",
+    "category" : "Explainer"
+  },
+  {
+    "title" : "Unipelago",
+    "url" : "https://player.vimeo.com/video/268245201",
+    "thumb" : "",
+    "description" : "Corporate Style- Pitch Video for Unipelago.",
+    "category" : "Explainer"
+  },
+  {
+    "title" : "AiAssetx",
+    "url" : "https://player.vimeo.com/video/235227668",
+    "thumb" : "",
+    "description" : "Character based- African investment firm AiAssetx explainer video for world bank meeting.",
     "category" : "Explainer"
   },
   {
     "title" : "Image based",
-    "url" : "https://drive.google.com/open?id=182cnBaCeNqR-YSBLSpgSXPLoTwx25psc",
+    "url" : "",
     "thumb" : "",
     "description" : "",
     "category" : "Image"
   },
   {
+    "title" : "Haan Homes LLC",
+    "url" : "https://www.youtube.com/watch?v=ZO1eKjIe4nc",
+    "thumb" : "",
+    "description" : "Whiteboard explainer video for real estate firm.",
+    "category" : "Whiteboard"
+  },
+  {
     "title" : "Instagram Short clip",
     "url" : "https://player.vimeo.com/video/267032771",
     "thumb" : "",
-    "description" : "",
+    "description" : "Character walk cycle for instagram advertisement",
     "category" : "Social"
+  },
+  {
+    "title" : "Nakisa Marketing Video",
+    "url" : "https://www.youtube.com/watch?v=7lFeWK8cxCA",
+    "thumb" : "",
+    "description" : "Marketing video series- for blogs by Nakisa.com",
+    "category" : "Social"
+  },
+  {
+    "title" : "Nakisa Marketing Video",
+    "url" : "https://www.youtube.com/watch?v=U8NVZG2fmeU",
+    "thumb" : "",
+    "description" : "Marketing video series- for blogs by Nakisa.com",
+    "category" : "Social"
+  },
+  {
+    "title" : "Nakisa Marketing Video",
+    "url" : "https://www.youtube.com/watch?v=MjvmjC6cX9c",
+    "thumb" : "",
+    "description" : "Marketing video series- for blogs by Nakisa.com",
+    "category" : "Social"
+  },
+  {
+    "title" : "Nakisa Marketing Video",
+    "url" : "https://www.youtube.com/watch?v=h5mueyzujO8",
+    "thumb" : "",
+    "description" : "Marketing video series- for blogs by Nakisa.com",
+    "category" : "Social"
+  },
+  {
+    "title" : "Nakisa Marketing Video",
+    "url" : "https://www.youtube.com/watch?v=LA-iKJcRKPM",
+    "thumb" : "",
+    "description" : "Marketing video series- for blogs by Nakisa.com",
+    "category" : "Social"
+  },
+  {
+    "title" : "Spooks & Dooks",
+    "url" : "https://www.facebook.com/RepublicWorld/videos/226567281544592/",
+    "thumb" : "",
+    "description" : "Marketing video series- for blogs by Nakisa.com",
+    "category" : "news"
+  },
+  {
+    "title" : "Spooks & Dooks",
+    "url" : "https://www.facebook.com/RepublicWorld/videos/2052587065032368/",
+    "thumb" : "",
+    "description" : "Marketing video series- for blogs by Nakisa.com",
+    "category" : "news"
+  },
+  {
+    "title" : "Spooks & Dooks",
+    "url" : "https://www.facebook.com/RepublicWorld/videos/347684192467926/",
+    "thumb" : "",
+    "description" : "Marketing video series- for blogs by Nakisa.com",
+    "category" : "news"
+  },
+  {
+    "title" : "Spooks & Dooks",
+    "url" : "https://www.facebook.com/RepublicWorld/videos/306433923543688/",
+    "thumb" : "",
+    "description" : "Marketing video series- for blogs by Nakisa.com",
+    "category" : "news"
+  },
+  {
+    "title" : "Spooks & Dooks",
+    "url" : "https://www.facebook.com/RepublicWorld/videos/1914049778684464/",
+    "thumb" : "",
+    "description" : "Marketing video series- for blogs by Nakisa.com",
+    "category" : "news"
+  },
+  {
+    "title" : "Spooks & Dooks",
+    "url" : "https://www.facebook.com/RepublicWorld/videos/284509282180830/",
+    "thumb" : "",
+    "description" : "Marketing video series- for blogs by Nakisa.com",
+    "category" : "news"
   }
 ]
