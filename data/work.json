@@ -84,20 +84,6 @@
     "category" : "Social"
   },
   {
-    "title" : "Instagram Short clip",
-    "url" : "https://www.instagram.com/p/BdiLiYnnsa8/?utm_source=ig_embed&amp;utm_medium=loading",
-    "thumb" : "",
-    "description" : "Social media ad for restaurant Noodle In Box",
-    "category" : "Social"
-  },
-  {
-    "title" : "Instagram Short clip",
-    "url" : "https://www.instagram.com/p/BcEDxlonPWO/",
-    "thumb" : "",
-    "description" : "Social media ad for restaurant Noodle In Box",
-    "category" : "Social"
-  },
-  {
     "title" : "Nakisa Marketing Video",
     "url" : "https://www.youtube.com/embed/7lFeWK8cxCA",
     "thumb" : "",
@@ -116,27 +102,6 @@
     "url" : "https://www.youtube.com/embed/MjvmjC6cX9c",
     "thumb" : "",
     "description" : "Marketing video series- for blogs by Nakisa.com",
-    "category" : "Social"
-  },
-  {
-    "title" : "Instagram Short clip",
-    "url" : "https://www.instagram.com/p/BabScYqH2kS/",
-    "thumb" : "",
-    "description" : "Social media ad for restaurant Noodle In Box",
-    "category" : "Social"
-  },
-  {
-    "title" : "Instagram Short clip",
-    "url" : "https://www.instagram.com/p/Baqby23nV3Z/",
-    "thumb" : "",
-    "description" : "Social media ad for restaurant Noodle In Box",
-    "category" : "Social"
-  },
-  {
-    "title" : "Instagram Short clip",
-    "url" : "https://www.instagram.com/p/BdiLiYnnsa8/",
-    "thumb" : "",
-    "description" : "Social media ad for restaurant Noodle In Box",
     "category" : "Social"
   },
   {
@@ -202,5 +167,4 @@
     "description" : "Logo Animation",
     "category" : "logo"
   }
-
 ]

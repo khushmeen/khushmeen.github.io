@@ -47,9 +47,6 @@ button#showRightPush img {
 	float:right;
 	margin-top: 15px;
 }
-.top-header{
-margin-top:50px;
-}
 .right_bt span{
 	width: 37px;
     height: 25px;
@@ -124,7 +121,7 @@ a.boxclose{
 }
 .banner-info{
 width:85%;
-margin: 120px auto 0 auto;
+margin: 170px auto 0 auto;
 }
 .banner-right h1{
 font-size:34px;
@@ -157,7 +154,7 @@ float:left;
 float:right;
 }
 .border {
-  background: #52edc7;
+  background: #fff;
   width: 70%;
   margin: 0 auto;
   padding: 1px;
@@ -274,7 +271,7 @@ background: url(../images/icons.png) no-repeat 0px -71px;
 /*--//about--*/
 /*--my skill--*/
 .my-skills{
-	background: #1abc9c;
+	background: #04a0cb;
 	padding: 60px 0;
 }
 .my-skills h3{
@@ -326,7 +323,7 @@ margin:0px auto;
 color:#ffffff;
 font-size:18px;
 font-family: 'Lato', sans-serif;
-background:#52edc7;
+background:#04a0cb;
 width: 36%;
 padding: 3px 0;
 }
@@ -342,7 +339,7 @@ padding: 3px 0;
 }
 .edu-grid-master{
 
-background:#52edc7;
+background:#04a0cb;
 padding: 15px 0;
 }
 .edu-grid-master h3{
@@ -408,7 +405,7 @@ left: 40%;
 .work-grid h3{
 margin:0;
 color:#ffffff;
-background:#52edc7;
+background:#04a0cb;
 padding: 9px 0;
 font-size: 18px;
 font-weight: 600;
@@ -543,7 +540,7 @@ top:0;
 left:0;
 -webkit-transform: scale(0);
 transform: scale(0);
-background-color:rgba(82, 237, 199, 0.5);
+background-color:rgba(4, 160, 203, 0.5);
 }
 .gallery1:hover .textbox {
 -webkit-transform: scale(1);
@@ -593,7 +590,7 @@ font-weight:700;
 /*--//portfolio--*/
 /*--process--*/
 .process{
-background:#52edc7;
+background:#04a0cb;
   padding: 30px 0 65px 0;
 }
 .process-gird{
@@ -654,10 +651,10 @@ margin:0 auto;
 }
 .process-gird p{
 color:#2b2b2b;
-font-family: 'Lato', sans-serif;
+font-family: 'Lato Bold', sans-serif;
 font-size:18px;
 font-weight:700;
-margin:14px 0 0 0;
+margin:45px 0 0 0;
 }
 .process-girds {
   margin-top: 50px;
@@ -677,7 +674,7 @@ padding:0 25px;
 /*--//process--*/
 .test-banner {
   background: #ffffff;
-  border-top: 15px solid #52edc7;
+  border-top: 15px solid #04a0cb;
   width: 54%;
   margin: 50px auto 0 auto;
   padding: 82px 45px;
@@ -999,7 +996,7 @@ padding:0 0 60px 0;
 background:#eeeeee;
 }
 .strip-line{
-  background: #52edc7;
+  background: #04a0cb;
   width: 20%;
   margin: 0 auto;
   padding: 1px;
@@ -1047,7 +1044,7 @@ font-family: 'Lato', sans-serif;
 font-weight:700;
 }
 .blog-grid a:hover{
-color :#52edc7;
+color :#04a0cb;
 }
 .stripa{
 background:#dedede;
@@ -1110,7 +1107,7 @@ position:relative;
   top: 42%;
   left: 14%;
   width: 17.5%;
-  background: #52edc7;
+  background: #04a0cb;
   transform: rotate(-46deg);
   -webkit-transform: rotate(-46deg);
   -o-transform: rotate(-46deg);
@@ -1119,12 +1116,12 @@ position:relative;
 /*-- blog --*/
 /*-- contact --*/
 .contact{
-background:#52edc7;
+background:#04a0cb;
 padding:60px 0 0 0;
 }
 .contact-info h3 {
   margin: 0;
-  color: #2b2b2b;
+  color: #fff;
   font-size: 36px;
   font-weight: 500;
   letter-spacing: 18px;
@@ -1133,7 +1130,7 @@ padding:60px 0 0 0;
 margin-top:50px;
 }
 .contact-grids h3 {
-  color: #2b2b2b;
+  color: #fff;
   font-size: 20px;
   font-weight: 400;
   margin: 0 0 25px 0;
@@ -1151,14 +1148,14 @@ padding:0;
 .contact-left ul li{
 list-style-type:none;
 font-size:18px;
-color:#2b2b2b;
+color:#fff;
 font-weight:500;
 line-height:1.8em;
 font-family: 'Lato', sans-serif;
 }
 .contact-left ul li a{
 text-decoration:none;
-color:#2b2b2b;
+color:#fff;
 }
 .contact-left ul li a:hover{
 color:#ffffff;
@@ -1184,7 +1181,7 @@ font-family: 'Lato', sans-serif;
 	padding: 14px;
 	font-size: 18px;
 	font-weight:300;
-	color: #c9c9cb;
+	color: #fff;
 	margin: 0 24px 24px 0;
 }
 .contact-right textarea {
@@ -1196,7 +1193,7 @@ font-family: 'Lato', sans-serif;
 	outline: none;
 	font-weight:300;
 	font-size: 18px;
-	color: #c9c9cb;
+	color: #fff;
 	resize: none;
 	padding: 14px;
 	margin-bottom: 24px;
@@ -1205,7 +1202,7 @@ font-family: 'Lato', sans-serif;
 margin-right:0;
 }
 .contact-right form input[type="submit"] {
-color:#2b2b2b;
+color:#fff;
 font-family: 'Lato', sans-serif;
   background: url(../images/mess.png) no-repeat 81px 14px;
   width: 49%;
@@ -1243,7 +1240,7 @@ color:#fff;
 /*-- contact --*/
 /*-- footer --*/
 .footer{
-background:#888b90;
+background:#04a0cb;
 padding:40px 0;
 }
 .footer p{
@@ -1255,7 +1252,7 @@ color:#ffffff;
 font-weight:400;
 }
 .footer p a{
-color:#52edc7;
+color:#04a0cb;
 }
 .footer p a:hover{
 color:#ffffff;
@@ -1351,7 +1348,7 @@ background:#dcdcdf;
   	font-size: 20px;
   	font-weight: 500;
   	margin: 20px 0;
-  	color:#52edc7;
+  	color:#04a0cb;
   	line-height: 1.6em;
 }
 .sample-page-info p{
@@ -1440,7 +1437,7 @@ width:100%;
 
 }
 .comment-icons ul li a:hover{
-	color:#52edc7;
+	color:#04a0cb;
 	text-decoration:none;
 	transition:.5s all;
 }
@@ -1490,7 +1487,7 @@ font-weight:600;
 }
 .category ul li a:hover{
 	transition:.5s all;
-	color:#52edc7;
+	color:#04a0cb;
 	text-decoration:none;
 }
 .recent-posts-info {
@@ -1508,7 +1505,7 @@ font-weight:600;
 	margin: 7px 0;
 }
 .posts-right h5 a{
-	color: #52edc7;
+	color: #04a0cb;
 	transition:.5s all;
 	text-decoration:none;
 }
@@ -1548,7 +1545,7 @@ margin: 12px 0 0 0;
 	font-weight: 600;
 }
 .cmnt-icon-right p a {
-  color: #52edc7;
+  color: #04a0cb;
 
   text-decoration:none;
 }
@@ -1592,7 +1589,7 @@ margin: 12px 0 0 0;
   text-decoration:none;
 }
 .admin-text-right span a:hover{
-  color: #52edc7;
+  color: #04a0cb;
   transition:.5s all;
 }
 .related-posts-grids {
@@ -1630,7 +1627,7 @@ margin: 12px 0 0 0;
 }
 .response-text-left h5 a {
   text-decoration: none;
-  color: #52edc7;
+  color: #04a0cb;
 }
 .response-text-left h5 a:hover{
   text-decoration: none;
@@ -1675,7 +1672,7 @@ margin: 12px 0 0 0;
 	font-size: 14px;
 }
 .response-text-right ul li a:hover{
-	color:#52edc7;
+	color:#04a0cb;
 	transition:.5s all;
 	text-decoration:none;
 }
@@ -1727,7 +1724,7 @@ margin: 12px 0 0 0;
   border: 3px solid #2b2b2b;
 }
 .coment-form input[type="submit"]:hover{
-	border:3px solid #52edc7;
+	border:3px solid #04a0cb;
 }
 /*-- //single-page --*/
 /*-- to-top --*/
@@ -1768,7 +1765,7 @@ background:none;
 border:none;
 }
 /*-- responsive media queries --*/
-@media(max-width:1440px){
+@media(max-width:1140px){
 .comment-icons ul li {
   margin: 12px 15px 12px 0;
   }

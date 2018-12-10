@@ -51,7 +51,7 @@ $(document).ready(function() {
     let videos = document.getElementById('videos')
 
     let element = document.createElement('div')
-    element.className = 'col-sm-4 video'
+    element.className = 'col-sm-4 video mb-3'
 
     let card = document.createElement('div')
     card.className = 'card'
@@ -63,8 +63,19 @@ $(document).ready(function() {
     let placeholder = document.createElement('div')
     placeholder.className = 'card-img-top card-video-image'
 
-    // render video using vimeo
-    if (video.url) {
+    if (video.isInsta === 'true') {
+      let block = document.createElement('blockquote');
+      block.className = 'embedly-card'
+      let anchor = document.createElement('a');
+      anchor.href = video.url
+      anchor.innerHTML = video.iHeader
+      let decription = document.createElement('p');
+      decription.innerHTML = video.iDescription
+
+      block.appendChild(anchor)
+      block.appendChild(decription)
+      placeholder.appendChild(block)
+    } else {
       let vim = document.createElement('iframe')
       vim.height = "100%"
       vim.width = "100%"
