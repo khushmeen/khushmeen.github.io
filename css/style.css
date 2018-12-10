@@ -205,11 +205,23 @@ width:72px;
 height:72px;
 display:block;
 }
+ul li a.twit2{
+background: url(../images/icons.png) no-repeat -99px -71px;
+width:72px;
+height:72px;
+display:block;
+}
 .about ul li a.twit:hover{
 background: url(../images/icons.png) no-repeat -99px -71px;
 }
 .about ul li a.in{
 background: url(../images/icons.png) no-repeat -199px 0px;
+width:72px;
+height:72px;
+display:block;
+}
+ul li a.in2{
+background: url(../images/icons.png) no-repeat -199px -71px;
 width:72px;
 height:72px;
 display:block;
@@ -223,11 +235,23 @@ width:72px;
 height:72px;
 display:block;
 }
+ul li a.drib2{
+background: url(../images/icons.png) no-repeat -299px -71px;
+width:72px;
+height:72px;
+display:block;
+}
 .about ul li a.drib:hover{
 background: url(../images/icons.png) no-repeat -299px -71px;
 }
 .about ul li a.goog{
 background: url(../images/icons.png) no-repeat -399px 0px;
+width:72px;
+height:72px;
+display:block;
+}
+ul li a.goog2{
+background: url(../images/icons.png) no-repeat -399px -71px;
 width:72px;
 height:72px;
 display:block;
